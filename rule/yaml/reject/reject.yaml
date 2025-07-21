@@ -1,6 +1,6 @@
-rules:
+payload:
   #  Photoshop 防止弹出激活验证
-  - PROCESS-NAME,Photoshop.exe,REJECT
-  - PROCESS-NAME,CRWindowsClientService.exe,REJECT
-  - PROCESS-NAME,msedgewebview2.exe,REJECT
-  - PROCESS-NAME,FontCreator.exe,REJECT
+  - PROCESS-NAME,Photoshop.exe
+  - PROCESS-NAME,CRWindowsClientService.exe
+  - PROCESS-NAME,msedgewebview2.exe
+  - PROCESS-NAME,FontCreator.exe
