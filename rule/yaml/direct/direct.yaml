@@ -1,9 +1,9 @@
 payload:
-  - '68bd384lrg.execute-api.ap-northeast-1.amazonaws.com'
-  - 'yacd.metacubex.one'
-  - 'zxcs'
+  - 68bd384lrg.execute-api.ap-northeast-1.amazonaws.com
+  - yacd.metacubex.one
+  - 'zxcs.zip'
   - 'zxcstxt.com'
-  - 'pecc.xin'
-  - 'su.x-theflash.com'
-  - 'x-superflash.com'
-  - 'www.clashverge.dev'
+  - '*.pecc.xin'
+  - su.x-theflash.com
+  - x-superflash.com
+  - www.clashverge.dev
