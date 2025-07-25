@@ -2,5 +2,5 @@ payload:
   #  Photoshop 防止弹出激活验证
   - PROCESS-NAME,Photoshop.exe
   - PROCESS-NAME,CRWindowsClientService.exe
-  - PROCESS-NAME,msedgewebview2.exe
+  - PROCESS-PATH,C:\Program Files\Common Files\Adobe\Microsoft\EdgeWebView\msedgewebview2.exe
   - PROCESS-NAME,FontCreator.exe
