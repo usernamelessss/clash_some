@@ -1,0 +1,4 @@
+payload:
+  #  download proxy
+  - PROCESS-NAME,tdl.exe
+  - PROCESS-PATH,E:\workspace_home\tdl\tdl.exe
