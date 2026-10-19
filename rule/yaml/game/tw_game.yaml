@@ -1,6 +1,7 @@
 payload:
   # - PROCESS-PATH,xxx
   # 洛奇英雄传 台服
+  - PROCESS-PATH,D:\game_home\Nexon\TW\Nexon Launcher\bin\nexon_client\nexon_client.exe
   - PROCESS-PATH,D:\game_home\Nexon\TW\Nexon Launcher\nexon_launcher.exe
   - PROCESS-PATH,D:\game_home\Nexon\TW\Nexon Launcher\nexon_runtime.exe
   - PROCESS-PATH,D:\game_home\Nexon\TW\Nexon Launcher\bin\nexon_agent.exe
