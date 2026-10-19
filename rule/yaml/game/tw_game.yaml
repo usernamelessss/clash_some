@@ -1,0 +1,11 @@
+payload:
+  # - PROCESS-PATH,xxx
+  # 洛奇英雄传 台服
+  - PROCESS-PATH,D:\game_home\Nexon\TW\Nexon Launcher\nexon_launcher.exe
+  - PROCESS-PATH,D:\game_home\Nexon\TW\Nexon Launcher\nexon_runtime.exe
+  - PROCESS-PATH,D:\game_home\Nexon\TW\Nexon Launcher\bin\nexon_agent.exe
+  - PROCESS-PATH,D:\game_home\Nexon\TW\tw_vindictus\appdata\zh-TW\heroes.exe
+  - PROCESS-PATH,D:\game_home\Nexon\TW\tw_vindictus\appdata\zh-TW\heroes_x64.exe
+  - PROCESS-PATH,D:\game_home\Nexon\TW\tw_vindictus\appdata\zh-TW\NMService.exe
+  - PROCESS-PATH,D:\game_home\Nexon\TW\tw_vindictus\appdata\zh-TW\NGClient64.aes
+  - PROCESS-PATH,D:\game_home\Nexon\TW\tw_vindictus\appdata\zh-TW\NGClient.aes
